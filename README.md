@@ -1,11 +1,16 @@
 # Minimus files JS Css HTML in your Project
 
+#### this step in windows :
+
 Install python 
 https://www.python.org/downloads/
 
 After that
 
 window + R => Cmd => Entre => pip instal css-html-js-minify
+
+#### Document 
+https://pypi.org/project/css-html-js-minify/#description
 
 Cmd => pip --help
 
@@ -18,7 +23,7 @@ window + R => css-html-js-minify --overwrite D:\TestMini ( Path Local )  // use 
 ########## 
 
 # Note:
-you will find the problem in process when you Minimus the file is Minimus before
+###### you will find the problem in process when you Minimus the file is Minimus before
 
 Cmd => pip --wrap PathFileLocal(Add file min )
 
